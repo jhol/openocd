@@ -65,6 +65,7 @@ ARM7_9_SRC = \
 
 ARM_MISC_SRC = \
 	%D%/fa526.c \
+	%D%/fa626.c \
 	%D%/xscale.c
 
 ARMV6_SRC = \
